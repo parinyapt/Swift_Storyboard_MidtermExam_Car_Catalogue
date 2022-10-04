@@ -16,6 +16,58 @@
 		AFAFD53B28EBBC3C00B3C410 /* car_catalogue_midterm_049Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD53A28EBBC3C00B3C410 /* car_catalogue_midterm_049Tests.swift */; };
 		AFAFD54528EBBC3C00B3C410 /* car_catalogue_midterm_049UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD54428EBBC3C00B3C410 /* car_catalogue_midterm_049UITests.swift */; };
 		AFAFD54728EBBC3C00B3C410 /* car_catalogue_midterm_049UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD54628EBBC3C00B3C410 /* car_catalogue_midterm_049UITestsLaunchTests.swift */; };
+		AFAFD55428EBBD0000B3C410 /* DataConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD55328EBBD0000B3C410 /* DataConfig.swift */; };
+		AFAFD57E28EBBE3800B3C410 /* nissan_terra.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD55528EBBE3600B3C410 /* nissan_terra.png */; };
+		AFAFD57F28EBBE3800B3C410 /* civic.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD55628EBBE3600B3C410 /* civic.png */; };
+		AFAFD58028EBBE3800B3C410 /* motorexpo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD55728EBBE3600B3C410 /* motorexpo3.jpg */; };
+		AFAFD58228EBBE3800B3C410 /* honda_hrv.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD55928EBBE3600B3C410 /* honda_hrv.png */; };
+		AFAFD58528EBBE3800B3C410 /* Nintendo_Switch_OLED.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD55C28EBBE3700B3C410 /* Nintendo_Switch_OLED.png */; };
+		AFAFD58628EBBE3800B3C410 /* honda_civic.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD55D28EBBE3700B3C410 /* honda_civic.png */; };
+		AFAFD58928EBBE3800B3C410 /* mazda_cx8.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56028EBBE3700B3C410 /* mazda_cx8.png */; };
+		AFAFD58A28EBBE3800B3C410 /* mazda_cx3.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56128EBBE3700B3C410 /* mazda_cx3.png */; };
+		AFAFD58B28EBBE3800B3C410 /* terra.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56228EBBE3700B3C410 /* terra.png */; };
+		AFAFD58C28EBBE3800B3C410 /* mazda_2.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56328EBBE3700B3C410 /* mazda_2.png */; };
+		AFAFD58D28EBBE3800B3C410 /* cx3.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56428EBBE3700B3C410 /* cx3.png */; };
+		AFAFD58E28EBBE3800B3C410 /* gtr.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56528EBBE3700B3C410 /* gtr.png */; };
+		AFAFD58F28EBBE3800B3C410 /* motorexpo2022_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56628EBBE3700B3C410 /* motorexpo2022_2.jpg */; };
+		AFAFD59028EBBE3800B3C410 /* nissan_almera.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56728EBBE3700B3C410 /* nissan_almera.png */; };
+		AFAFD59128EBBE3800B3C410 /* nissan_gtr.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56828EBBE3700B3C410 /* nissan_gtr.png */; };
+		AFAFD59228EBBE3800B3C410 /* city.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56928EBBE3700B3C410 /* city.png */; };
+		AFAFD59428EBBE3800B3C410 /* almera.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56B28EBBE3700B3C410 /* almera.png */; };
+		AFAFD59528EBBE3800B3C410 /* mazda_cx5.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56C28EBBE3800B3C410 /* mazda_cx5.png */; };
+		AFAFD59728EBBE3800B3C410 /* honda_accord.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56E28EBBE3800B3C410 /* honda_accord.png */; };
+		AFAFD59828EBBE3800B3C410 /* cx8.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD56F28EBBE3800B3C410 /* cx8.png */; };
+		AFAFD59928EBBE3800B3C410 /* Car-Loan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57028EBBE3800B3C410 /* Car-Loan.jpeg */; };
+		AFAFD59A28EBBE3800B3C410 /* hrv.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57128EBBE3800B3C410 /* hrv.png */; };
+		AFAFD59C28EBBE3800B3C410 /* accord.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57328EBBE3800B3C410 /* accord.png */; };
+		AFAFD59D28EBBE3800B3C410 /* motorexpo2022_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57428EBBE3800B3C410 /* motorexpo2022_1.jpg */; };
+		AFAFD59E28EBBE3800B3C410 /* kick.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57528EBBE3800B3C410 /* kick.png */; };
+		AFAFD5A128EBBE3800B3C410 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57828EBBE3800B3C410 /* 2.png */; };
+		AFAFD5A228EBBE3800B3C410 /* cx5.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57928EBBE3800B3C410 /* cx5.png */; };
+		AFAFD5A428EBBE3800B3C410 /* nissan_kick.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57B28EBBE3800B3C410 /* nissan_kick.png */; };
+		AFAFD5A528EBBE3800B3C410 /* Car-Loan-Calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57C28EBBE3800B3C410 /* Car-Loan-Calculator.png */; };
+		AFAFD5A628EBBE3800B3C410 /* honda_city.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD57D28EBBE3800B3C410 /* honda_city.png */; };
+		AFAFD5AD28EBC63800B3C410 /* CarListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD5AC28EBC63800B3C410 /* CarListViewController.swift */; };
+		AFAFD5AF28EBC65100B3C410 /* CarDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD5AE28EBC65100B3C410 /* CarDetailViewController.swift */; };
+		AFAFD5B128EBC66600B3C410 /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD5B028EBC66600B3C410 /* CalculatorViewController.swift */; };
+		AFAFD5BC28EBCA8400B3C410 /* nissan-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5B828EBCA8400B3C410 /* nissan-logo.png */; };
+		AFAFD5BD28EBCA8400B3C410 /* mazda-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5B928EBCA8400B3C410 /* mazda-logo.png */; };
+		AFAFD5C028EBCB0700B3C410 /* honda-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5BF28EBCB0700B3C410 /* honda-logo.png */; };
+		AFAFD5C228EBCB4F00B3C410 /* toyota-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C128EBCB4F00B3C410 /* toyota-logo.png */; };
+		AFAFD5CC28EBD8A400B3C410 /* yaris.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C428EBD8A300B3C410 /* yaris.png */; };
+		AFAFD5CD28EBD8A400B3C410 /* toyota_camry.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C528EBD8A300B3C410 /* toyota_camry.png */; };
+		AFAFD5CE28EBD8A400B3C410 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C628EBD8A300B3C410 /* cross.png */; };
+		AFAFD5CF28EBD8A400B3C410 /* chr.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C728EBD8A300B3C410 /* chr.png */; };
+		AFAFD5D028EBD8A400B3C410 /* camry.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C828EBD8A300B3C410 /* camry.png */; };
+		AFAFD5D128EBD8A400B3C410 /* toyota_cross.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5C928EBD8A300B3C410 /* toyota_cross.png */; };
+		AFAFD5D228EBD8A400B3C410 /* toyota_chr.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5CA28EBD8A300B3C410 /* toyota_chr.png */; };
+		AFAFD5D328EBD8A400B3C410 /* toyota_yaris.png in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5CB28EBD8A300B3C410 /* toyota_yaris.png */; };
+		AFAFD5D828EBD91400B3C410 /* camry-new.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5D428EBD91400B3C410 /* camry-new.jpg */; };
+		AFAFD5D928EBD91400B3C410 /* cross-new.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5D528EBD91400B3C410 /* cross-new.jpg */; };
+		AFAFD5DA28EBD91400B3C410 /* chr-new.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5D628EBD91400B3C410 /* chr-new.jpg */; };
+		AFAFD5DB28EBD91400B3C410 /* yaris-new.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFAFD5D728EBD91400B3C410 /* yaris-new.jpg */; };
+		AFAFD5DD28EBDE5C00B3C410 /* Finance.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD5DC28EBDE5C00B3C410 /* Finance.swift */; };
+		AFAFD5DF28EBDE7100B3C410 /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFAFD5DE28EBDE7100B3C410 /* Validator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +101,58 @@
 		AFAFD54028EBBC3C00B3C410 /* car_catalogue_midterm_049UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = car_catalogue_midterm_049UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFAFD54428EBBC3C00B3C410 /* car_catalogue_midterm_049UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = car_catalogue_midterm_049UITests.swift; sourceTree = "<group>"; };
 		AFAFD54628EBBC3C00B3C410 /* car_catalogue_midterm_049UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = car_catalogue_midterm_049UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AFAFD55328EBBD0000B3C410 /* DataConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataConfig.swift; sourceTree = "<group>"; };
+		AFAFD55528EBBE3600B3C410 /* nissan_terra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nissan_terra.png; sourceTree = "<group>"; };
+		AFAFD55628EBBE3600B3C410 /* civic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = civic.png; sourceTree = "<group>"; };
+		AFAFD55728EBBE3600B3C410 /* motorexpo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = motorexpo3.jpg; sourceTree = "<group>"; };
+		AFAFD55928EBBE3600B3C410 /* honda_hrv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = honda_hrv.png; sourceTree = "<group>"; };
+		AFAFD55C28EBBE3700B3C410 /* Nintendo_Switch_OLED.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nintendo_Switch_OLED.png; sourceTree = "<group>"; };
+		AFAFD55D28EBBE3700B3C410 /* honda_civic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = honda_civic.png; sourceTree = "<group>"; };
+		AFAFD56028EBBE3700B3C410 /* mazda_cx8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mazda_cx8.png; sourceTree = "<group>"; };
+		AFAFD56128EBBE3700B3C410 /* mazda_cx3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mazda_cx3.png; sourceTree = "<group>"; };
+		AFAFD56228EBBE3700B3C410 /* terra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = terra.png; sourceTree = "<group>"; };
+		AFAFD56328EBBE3700B3C410 /* mazda_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mazda_2.png; sourceTree = "<group>"; };
+		AFAFD56428EBBE3700B3C410 /* cx3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cx3.png; sourceTree = "<group>"; };
+		AFAFD56528EBBE3700B3C410 /* gtr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gtr.png; sourceTree = "<group>"; };
+		AFAFD56628EBBE3700B3C410 /* motorexpo2022_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = motorexpo2022_2.jpg; sourceTree = "<group>"; };
+		AFAFD56728EBBE3700B3C410 /* nissan_almera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nissan_almera.png; sourceTree = "<group>"; };
+		AFAFD56828EBBE3700B3C410 /* nissan_gtr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nissan_gtr.png; sourceTree = "<group>"; };
+		AFAFD56928EBBE3700B3C410 /* city.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = city.png; sourceTree = "<group>"; };
+		AFAFD56B28EBBE3700B3C410 /* almera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = almera.png; sourceTree = "<group>"; };
+		AFAFD56C28EBBE3800B3C410 /* mazda_cx5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mazda_cx5.png; sourceTree = "<group>"; };
+		AFAFD56E28EBBE3800B3C410 /* honda_accord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = honda_accord.png; sourceTree = "<group>"; };
+		AFAFD56F28EBBE3800B3C410 /* cx8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cx8.png; sourceTree = "<group>"; };
+		AFAFD57028EBBE3800B3C410 /* Car-Loan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Car-Loan.jpeg"; sourceTree = "<group>"; };
+		AFAFD57128EBBE3800B3C410 /* hrv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hrv.png; sourceTree = "<group>"; };
+		AFAFD57328EBBE3800B3C410 /* accord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = accord.png; sourceTree = "<group>"; };
+		AFAFD57428EBBE3800B3C410 /* motorexpo2022_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = motorexpo2022_1.jpg; sourceTree = "<group>"; };
+		AFAFD57528EBBE3800B3C410 /* kick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kick.png; sourceTree = "<group>"; };
+		AFAFD57828EBBE3800B3C410 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		AFAFD57928EBBE3800B3C410 /* cx5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cx5.png; sourceTree = "<group>"; };
+		AFAFD57B28EBBE3800B3C410 /* nissan_kick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nissan_kick.png; sourceTree = "<group>"; };
+		AFAFD57C28EBBE3800B3C410 /* Car-Loan-Calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Car-Loan-Calculator.png"; sourceTree = "<group>"; };
+		AFAFD57D28EBBE3800B3C410 /* honda_city.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = honda_city.png; sourceTree = "<group>"; };
+		AFAFD5AC28EBC63800B3C410 /* CarListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarListViewController.swift; sourceTree = "<group>"; };
+		AFAFD5AE28EBC65100B3C410 /* CarDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarDetailViewController.swift; sourceTree = "<group>"; };
+		AFAFD5B028EBC66600B3C410 /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
+		AFAFD5B828EBCA8400B3C410 /* nissan-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nissan-logo.png"; sourceTree = "<group>"; };
+		AFAFD5B928EBCA8400B3C410 /* mazda-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mazda-logo.png"; sourceTree = "<group>"; };
+		AFAFD5BF28EBCB0700B3C410 /* honda-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "honda-logo.png"; sourceTree = "<group>"; };
+		AFAFD5C128EBCB4F00B3C410 /* toyota-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toyota-logo.png"; sourceTree = "<group>"; };
+		AFAFD5C428EBD8A300B3C410 /* yaris.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yaris.png; sourceTree = "<group>"; };
+		AFAFD5C528EBD8A300B3C410 /* toyota_camry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toyota_camry.png; sourceTree = "<group>"; };
+		AFAFD5C628EBD8A300B3C410 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		AFAFD5C728EBD8A300B3C410 /* chr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chr.png; sourceTree = "<group>"; };
+		AFAFD5C828EBD8A300B3C410 /* camry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camry.png; sourceTree = "<group>"; };
+		AFAFD5C928EBD8A300B3C410 /* toyota_cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toyota_cross.png; sourceTree = "<group>"; };
+		AFAFD5CA28EBD8A300B3C410 /* toyota_chr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toyota_chr.png; sourceTree = "<group>"; };
+		AFAFD5CB28EBD8A300B3C410 /* toyota_yaris.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toyota_yaris.png; sourceTree = "<group>"; };
+		AFAFD5D428EBD91400B3C410 /* camry-new.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "camry-new.jpg"; sourceTree = "<group>"; };
+		AFAFD5D528EBD91400B3C410 /* cross-new.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cross-new.jpg"; sourceTree = "<group>"; };
+		AFAFD5D628EBD91400B3C410 /* chr-new.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chr-new.jpg"; sourceTree = "<group>"; };
+		AFAFD5D728EBD91400B3C410 /* yaris-new.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "yaris-new.jpg"; sourceTree = "<group>"; };
+		AFAFD5DC28EBDE5C00B3C410 /* Finance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Finance.swift; sourceTree = "<group>"; };
+		AFAFD5DE28EBDE7100B3C410 /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +183,17 @@
 		AFAFD51728EBBC3B00B3C410 = {
 			isa = PBXGroup;
 			children = (
+				AFAFD5C328EBD85100B3C410 /* toyota */,
+				AFAFD5B628EBCA2500B3C410 /* logo */,
+				AFAFD57C28EBBE3800B3C410 /* Car-Loan-Calculator.png */,
+				AFAFD57028EBBE3800B3C410 /* Car-Loan.jpeg */,
+				AFAFD5A828EBBE9F00B3C410 /* mazda */,
+				AFAFD5A728EBBE4900B3C410 /* honda */,
+				AFAFD5A928EBBECA00B3C410 /* nissan */,
+				AFAFD55728EBBE3600B3C410 /* motorexpo3.jpg */,
+				AFAFD57428EBBE3800B3C410 /* motorexpo2022_1.jpg */,
+				AFAFD56628EBBE3700B3C410 /* motorexpo2022_2.jpg */,
+				AFAFD55C28EBBE3700B3C410 /* Nintendo_Switch_OLED.png */,
 				AFAFD52228EBBC3B00B3C410 /* car_catalogue_midterm_049 */,
 				AFAFD53928EBBC3C00B3C410 /* car_catalogue_midterm_049Tests */,
 				AFAFD54328EBBC3C00B3C410 /* car_catalogue_midterm_049UITests */,
@@ -106,6 +221,12 @@
 				AFAFD52C28EBBC3C00B3C410 /* Assets.xcassets */,
 				AFAFD52E28EBBC3C00B3C410 /* LaunchScreen.storyboard */,
 				AFAFD53128EBBC3C00B3C410 /* Info.plist */,
+				AFAFD55328EBBD0000B3C410 /* DataConfig.swift */,
+				AFAFD5AC28EBC63800B3C410 /* CarListViewController.swift */,
+				AFAFD5AE28EBC65100B3C410 /* CarDetailViewController.swift */,
+				AFAFD5B028EBC66600B3C410 /* CalculatorViewController.swift */,
+				AFAFD5DC28EBDE5C00B3C410 /* Finance.swift */,
+				AFAFD5DE28EBDE7100B3C410 /* Validator.swift */,
 			);
 			path = car_catalogue_midterm_049;
 			sourceTree = "<group>";
@@ -125,6 +246,81 @@
 				AFAFD54628EBBC3C00B3C410 /* car_catalogue_midterm_049UITestsLaunchTests.swift */,
 			);
 			path = car_catalogue_midterm_049UITests;
+			sourceTree = "<group>";
+		};
+		AFAFD5A728EBBE4900B3C410 /* honda */ = {
+			isa = PBXGroup;
+			children = (
+				AFAFD56E28EBBE3800B3C410 /* honda_accord.png */,
+				AFAFD57328EBBE3800B3C410 /* accord.png */,
+				AFAFD57D28EBBE3800B3C410 /* honda_city.png */,
+				AFAFD56928EBBE3700B3C410 /* city.png */,
+				AFAFD55D28EBBE3700B3C410 /* honda_civic.png */,
+				AFAFD55628EBBE3600B3C410 /* civic.png */,
+				AFAFD55928EBBE3600B3C410 /* honda_hrv.png */,
+				AFAFD57128EBBE3800B3C410 /* hrv.png */,
+			);
+			name = honda;
+			sourceTree = "<group>";
+		};
+		AFAFD5A828EBBE9F00B3C410 /* mazda */ = {
+			isa = PBXGroup;
+			children = (
+				AFAFD56328EBBE3700B3C410 /* mazda_2.png */,
+				AFAFD57828EBBE3800B3C410 /* 2.png */,
+				AFAFD56128EBBE3700B3C410 /* mazda_cx3.png */,
+				AFAFD56428EBBE3700B3C410 /* cx3.png */,
+				AFAFD56C28EBBE3800B3C410 /* mazda_cx5.png */,
+				AFAFD57928EBBE3800B3C410 /* cx5.png */,
+				AFAFD56028EBBE3700B3C410 /* mazda_cx8.png */,
+				AFAFD56F28EBBE3800B3C410 /* cx8.png */,
+			);
+			name = mazda;
+			sourceTree = "<group>";
+		};
+		AFAFD5A928EBBECA00B3C410 /* nissan */ = {
+			isa = PBXGroup;
+			children = (
+				AFAFD57B28EBBE3800B3C410 /* nissan_kick.png */,
+				AFAFD57528EBBE3800B3C410 /* kick.png */,
+				AFAFD55528EBBE3600B3C410 /* nissan_terra.png */,
+				AFAFD56228EBBE3700B3C410 /* terra.png */,
+				AFAFD56728EBBE3700B3C410 /* nissan_almera.png */,
+				AFAFD56B28EBBE3700B3C410 /* almera.png */,
+				AFAFD56828EBBE3700B3C410 /* nissan_gtr.png */,
+				AFAFD56528EBBE3700B3C410 /* gtr.png */,
+			);
+			name = nissan;
+			sourceTree = "<group>";
+		};
+		AFAFD5B628EBCA2500B3C410 /* logo */ = {
+			isa = PBXGroup;
+			children = (
+				AFAFD5BF28EBCB0700B3C410 /* honda-logo.png */,
+				AFAFD5B928EBCA8400B3C410 /* mazda-logo.png */,
+				AFAFD5B828EBCA8400B3C410 /* nissan-logo.png */,
+				AFAFD5C128EBCB4F00B3C410 /* toyota-logo.png */,
+			);
+			name = logo;
+			sourceTree = "<group>";
+		};
+		AFAFD5C328EBD85100B3C410 /* toyota */ = {
+			isa = PBXGroup;
+			children = (
+				AFAFD5D428EBD91400B3C410 /* camry-new.jpg */,
+				AFAFD5D628EBD91400B3C410 /* chr-new.jpg */,
+				AFAFD5D528EBD91400B3C410 /* cross-new.jpg */,
+				AFAFD5D728EBD91400B3C410 /* yaris-new.jpg */,
+				AFAFD5C828EBD8A300B3C410 /* camry.png */,
+				AFAFD5C728EBD8A300B3C410 /* chr.png */,
+				AFAFD5C628EBD8A300B3C410 /* cross.png */,
+				AFAFD5C528EBD8A300B3C410 /* toyota_camry.png */,
+				AFAFD5CA28EBD8A300B3C410 /* toyota_chr.png */,
+				AFAFD5C928EBD8A300B3C410 /* toyota_cross.png */,
+				AFAFD5CB28EBD8A300B3C410 /* toyota_yaris.png */,
+				AFAFD5C428EBD8A300B3C410 /* yaris.png */,
+			);
+			name = toyota;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +427,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFAFD5A128EBBE3800B3C410 /* 2.png in Resources */,
+				AFAFD5A228EBBE3800B3C410 /* cx5.png in Resources */,
+				AFAFD58528EBBE3800B3C410 /* Nintendo_Switch_OLED.png in Resources */,
+				AFAFD58C28EBBE3800B3C410 /* mazda_2.png in Resources */,
+				AFAFD58E28EBBE3800B3C410 /* gtr.png in Resources */,
+				AFAFD59528EBBE3800B3C410 /* mazda_cx5.png in Resources */,
+				AFAFD58D28EBBE3800B3C410 /* cx3.png in Resources */,
+				AFAFD58228EBBE3800B3C410 /* honda_hrv.png in Resources */,
+				AFAFD59828EBBE3800B3C410 /* cx8.png in Resources */,
+				AFAFD59A28EBBE3800B3C410 /* hrv.png in Resources */,
+				AFAFD5DB28EBD91400B3C410 /* yaris-new.jpg in Resources */,
+				AFAFD5D028EBD8A400B3C410 /* camry.png in Resources */,
+				AFAFD5CE28EBD8A400B3C410 /* cross.png in Resources */,
+				AFAFD5A428EBBE3800B3C410 /* nissan_kick.png in Resources */,
+				AFAFD59128EBBE3800B3C410 /* nissan_gtr.png in Resources */,
+				AFAFD5A528EBBE3800B3C410 /* Car-Loan-Calculator.png in Resources */,
+				AFAFD57E28EBBE3800B3C410 /* nissan_terra.png in Resources */,
+				AFAFD58628EBBE3800B3C410 /* honda_civic.png in Resources */,
+				AFAFD59D28EBBE3800B3C410 /* motorexpo2022_1.jpg in Resources */,
+				AFAFD58028EBBE3800B3C410 /* motorexpo3.jpg in Resources */,
+				AFAFD5CF28EBD8A400B3C410 /* chr.png in Resources */,
+				AFAFD5D328EBD8A400B3C410 /* toyota_yaris.png in Resources */,
 				AFAFD53028EBBC3C00B3C410 /* LaunchScreen.storyboard in Resources */,
+				AFAFD57F28EBBE3800B3C410 /* civic.png in Resources */,
+				AFAFD59028EBBE3800B3C410 /* nissan_almera.png in Resources */,
+				AFAFD5A628EBBE3800B3C410 /* honda_city.png in Resources */,
+				AFAFD58A28EBBE3800B3C410 /* mazda_cx3.png in Resources */,
+				AFAFD5BD28EBCA8400B3C410 /* mazda-logo.png in Resources */,
+				AFAFD58F28EBBE3800B3C410 /* motorexpo2022_2.jpg in Resources */,
+				AFAFD58B28EBBE3800B3C410 /* terra.png in Resources */,
+				AFAFD59C28EBBE3800B3C410 /* accord.png in Resources */,
+				AFAFD5C228EBCB4F00B3C410 /* toyota-logo.png in Resources */,
 				AFAFD52D28EBBC3C00B3C410 /* Assets.xcassets in Resources */,
+				AFAFD5CC28EBD8A400B3C410 /* yaris.png in Resources */,
+				AFAFD58928EBBE3800B3C410 /* mazda_cx8.png in Resources */,
+				AFAFD5BC28EBCA8400B3C410 /* nissan-logo.png in Resources */,
+				AFAFD5D928EBD91400B3C410 /* cross-new.jpg in Resources */,
+				AFAFD5D828EBD91400B3C410 /* camry-new.jpg in Resources */,
+				AFAFD5CD28EBD8A400B3C410 /* toyota_camry.png in Resources */,
+				AFAFD5D128EBD8A400B3C410 /* toyota_cross.png in Resources */,
+				AFAFD59228EBBE3800B3C410 /* city.png in Resources */,
+				AFAFD5D228EBD8A400B3C410 /* toyota_chr.png in Resources */,
 				AFAFD52B28EBBC3B00B3C410 /* Main.storyboard in Resources */,
+				AFAFD59E28EBBE3800B3C410 /* kick.png in Resources */,
+				AFAFD59928EBBE3800B3C410 /* Car-Loan.jpeg in Resources */,
+				AFAFD59428EBBE3800B3C410 /* almera.png in Resources */,
+				AFAFD59728EBBE3800B3C410 /* honda_accord.png in Resources */,
+				AFAFD5DA28EBD91400B3C410 /* chr-new.jpg in Resources */,
+				AFAFD5C028EBCB0700B3C410 /* honda-logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +501,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				AFAFD52828EBBC3B00B3C410 /* ViewController.swift in Sources */,
+				AFAFD5DF28EBDE7100B3C410 /* Validator.swift in Sources */,
+				AFAFD5AD28EBC63800B3C410 /* CarListViewController.swift in Sources */,
+				AFAFD5AF28EBC65100B3C410 /* CarDetailViewController.swift in Sources */,
 				AFAFD52428EBBC3B00B3C410 /* AppDelegate.swift in Sources */,
+				AFAFD5DD28EBDE5C00B3C410 /* Finance.swift in Sources */,
 				AFAFD52628EBBC3B00B3C410 /* SceneDelegate.swift in Sources */,
+				AFAFD5B128EBC66600B3C410 /* CalculatorViewController.swift in Sources */,
+				AFAFD55428EBBD0000B3C410 /* DataConfig.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
