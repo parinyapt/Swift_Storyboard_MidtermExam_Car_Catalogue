@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     
-    let title_config:String = "Car Gallery"
+    let title_config:String = "Car Gallery!"
     
     @IBOutlet weak var TitleLabel: UILabel!
     
